@@ -1,1 +1,2 @@
 [2026-09-07 23:34:41] Make it work, make it right, make it fast.
+[2026-09-07 23:36:56] Learning note: if the fix took five minutes, the next ten go into writing down why.
